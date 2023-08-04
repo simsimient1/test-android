@@ -4,3 +4,5 @@ Android Kotlin Test
 Not worry bad AIDE!
 # How to App
 How to Hello World
+# Test npm
+`npm install`
