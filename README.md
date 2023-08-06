@@ -8,3 +8,4 @@ How to Hello World
 Thank you, love [PhoneGap](https://github.com/bysoft/android-phonegap-helloworld/tree/master)
 # About
 * [Max Patchs](https://youtube.com/@Windows10-tutorialsBlogspot)
+* [Petr Nalevka](https://github.com/petrnalevka)
