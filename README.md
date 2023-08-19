@@ -1,4 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/simsimient1/test-android/total?logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fsimsimient1%2Ftest-android%2Freleases)
+![GitHub followers](https://img.shields.io/github/followers/simsimient1)
+
 
 # Test
 Android Kotlin Test
