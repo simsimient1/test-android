@@ -16,3 +16,4 @@ Thank you, love [PhoneGap](https://github.com/bysoft/android-phonegap-helloworld
 * [Matthias Urhahn](https://github.com/d4rken)
 * [Dani Mahardhika](https://github.com/danimahardhika)
 * [Hu Shenghao](https://github.com/hushenghao)
+
